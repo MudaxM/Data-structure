@@ -1,7 +1,7 @@
 # Data structure and Algorithm Group 7 Assignment in Arba Minch University.
 |Name:         | ID No     |Github Username   |                     
 |-------------------------|-----------|-----|
-|1.Muhidin Mitiku         | NSR/723/16 |Mudax36
+|1.Muhidin Mitiku         | NSR/723/16 |MudaxM
 |2.Umer     Hussen        | NSR/1125/16 |umer0239
 |3.Christina Bereket      | NSR/226/16 |ChristinaBereket
 |4.Samson    Anteneh      | NSR/842/16 |Samford17
